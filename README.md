@@ -1,10 +1,27 @@
 ## Hi there, I'm Ole 👋
 
 ### 👤 About me
-**Aerospace Engineering Student | Test & Telemetry Analysis**
+**Aerospace Engineering Student 🚀 | Test & Telemetry Analysis 🔬**
 
 I specialize in the **validation and evaluation of autonomous systems**, bridging the gap between raw sensor data and actionable engineering insights.
 My background combines theoretical Aerospace Engineering with extensive hands-on experience in **ADAS (Advanced Driver Assistance Systems)** and **UAV (Unmanned Aerial Vehicle)** testing.
+
+<details>
+
+<summary> 📂 More infos about me</summary>
+  
+#### 📚 Core Expertise
+
+* 🚦 **System Validation & Testing:** Experienced in the end-to-end validation cycle—from test preparation and execution (drive/flight tests) to the definition of KPIs and final system performance evaluation.
+* 📈 **Telemetry Visualization:** Developing full-stack Python tools to synchronize and visualize complex multi-agent telemetry (UAV swarms) and GNSS data in real-time and post-mission.
+* 🤖 **Test Automation:** Streamlining manual analysis workflows into automated software solutions, reducing data processing times from hours to seconds to accelerate development cycles.
+
+#### 💼 Professional Focus
+I am currently finishing my B.Sc. in Aerospace Engineering at the **University of Stuttgart** while working on system-level validation projects. My goal is to ensure the safety and reliability of autonomous systems through rigorous testing and sophisticated data evaluation.
+
+</details>
+
+---
 
 ### 🔭 I'm currently working on
 <a href="https://github.com/olemeif/pyqtgraph-gis" target="_blank" rel="noreferrer">
@@ -23,6 +40,8 @@ My background combines theoretical Aerospace Engineering with extensive hands-on
     />
   </picture>
 </a>
+
+---
 
 ### 📊 Stats
 <picture>
