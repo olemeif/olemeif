@@ -1,13 +1,54 @@
 ## Hi there, I'm Ole 👋
 
-### Aerospace Engineering Student
+### 👤 About me
+**Aerospace Engineering Student | Test & Telemetry Analysis**
 
-- 🔭 I'm currently working on [PyQtGraph-GIS](https://github.com/olemeif/pyqtgraph-gis).
+I specialize in the **validation and evaluation of autonomous systems**, bridging the gap between raw sensor data and actionable engineering insights.
+My background combines theoretical Aerospace Engineering with extensive hands-on experience in **ADAS (Advanced Driver Assistance Systems)** and **UAV (Unmanned Aerial Vehicle)** testing.
 
+### 🔭 I'm currently working on
+<a href="https://github.com/olemeif/pyqtgraph-gis" target="_blank" rel="noreferrer">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
+      alt="olemeif"
+    />
+  </picture>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&locale=en&layout=compact" alt="olemeif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&locale=en" alt="olemeif" /></p>
+### 📊 Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&theme=github_dark_dimmed&layout=compact&locale=en"
+    media="(prefers-color-scheme: dark)"
+    alt="olemeif"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&layout=compact&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    alt="olemeif"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&layout=compact&locale=en" alt="olemeif" />
+</picture>
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&theme=github_dark_dimmed&locale=en"
+    media="(prefers-color-scheme: dark)"
+    alt="olemeif"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    alt="olemeif"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&locale=en" alt="olemeif" />
+</picture>
