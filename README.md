@@ -28,14 +28,14 @@ I am currently finishing my B.Sc. in Aerospace Engineering at the **University o
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis"
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
       alt="olemeif"
     />
   </picture>
@@ -46,28 +46,28 @@ I am currently finishing my B.Sc. in Aerospace Engineering at the **University o
 ### 📊 Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&theme=github_dark_dimmed&layout=compact&locale=en"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=olemeif&show_icons=true&theme=github_dark_dimmed&layout=compact&locale=en"
     media="(prefers-color-scheme: dark)"
     alt="olemeif"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&layout=compact&locale=en"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=olemeif&show_icons=true&layout=compact&locale=en"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     alt="olemeif"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olemeif&show_icons=true&layout=compact&locale=en" alt="olemeif" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=olemeif&show_icons=true&layout=compact&locale=en" alt="olemeif" />
 </picture>
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&theme=github_dark_dimmed&locale=en"
+    srcset="https://github-stats-extended.vercel.app/api?username=olemeif&show_icons=true&theme=github_dark_dimmed&locale=en"
     media="(prefers-color-scheme: dark)"
     alt="olemeif"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&locale=en"
+    srcset="https://github-stats-extended.vercel.app/api?username=olemeif&show_icons=true&locale=en"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     alt="olemeif"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=olemeif&show_icons=true&locale=en" alt="olemeif" />
+  <img src="https://github-stats-extended.vercel.app/api?username=olemeif&show_icons=true&locale=en" alt="olemeif" />
 </picture>
