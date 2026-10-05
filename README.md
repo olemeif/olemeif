@@ -1,7 +1,7 @@
 ## Hi there, I'm Ole 👋
 
 ### 👤 About me
-**Aerospace Engineering Student 🚀 | Test & Telemetry Analysis 🔬**
+**Aerospace Engineering M.Sc. Student 🚀 | Test & Telemetry Analysis 🔬**
 
 I specialize in the **validation and evaluation of autonomous systems**, bridging the gap between raw sensor data and actionable engineering insights.
 My background combines theoretical Aerospace Engineering with extensive hands-on experience in **ADAS (Advanced Driver Assistance Systems)** and **UAV (Unmanned Aerial Vehicle)** testing.
@@ -17,7 +17,7 @@ My background combines theoretical Aerospace Engineering with extensive hands-on
 * 🤖 **Test Automation:** Streamlining manual analysis workflows into automated software solutions, reducing data processing times from hours to seconds to accelerate development cycles.
 
 #### 💼 Professional Focus
-I am currently finishing my B.Sc. in Aerospace Engineering at the **University of Stuttgart** while working on system-level validation projects. My goal is to ensure the safety and reliability of autonomous systems through rigorous testing and sophisticated data evaluation.
+I just started my M.Sc. in Aerospace Engineering at the **University of Stuttgart** while working on system-level validation projects. My goal is to ensure the safety and reliability of autonomous systems through rigorous testing and sophisticated data evaluation.
 
 </details>
 
