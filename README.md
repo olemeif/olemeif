@@ -24,18 +24,18 @@ I just started my M.Sc. in Aerospace Engineering at the **University of Stuttgar
 ---
 
 ### 🔭 I'm currently working on
-<a href="https://github.com/olemeif/pyqtgraph-gis" target="_blank" rel="noreferrer">
+<a href="https://github.com/olemeif/kalman-tracking" target="_blank" rel="noreferrer">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=kalman-tracking&theme=github_dark_dimmed"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis"
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=kalman-tracking"
     />
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=pyqtgraph-gis&theme=github_dark_dimmed"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=olemeif&repo=kalman-tracking&theme=github_dark_dimmed"
       alt="olemeif"
     />
   </picture>
